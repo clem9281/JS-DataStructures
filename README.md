@@ -1,4 +1,4 @@
-# JS-Sorting
+# JS-DataStructures
 
 This repo includes the problems and tests for the third week of the computer science unit, but this time in JS.
 
